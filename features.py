@@ -4,7 +4,7 @@ import numpy as np
 
 
 '''
- * These functions  return a certain feature that describe sahpe in an image
+ * These functions  return a certain feature that describe shape in an image
  * @param: img is source image that contains the a shape to calculate its features
  * Each one of these features are explained in readme.md 
 '''
